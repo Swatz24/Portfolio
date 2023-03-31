@@ -1,0 +1,9 @@
+.skillsflex div{
+  border: none;
+  background-color: lightpink;
+  color: white  ;
+  margin-left: 2em;
+  margin-bottom: 2em;
+  border-radius: 0.2em;
+  text-align: center;
+}
